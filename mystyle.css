@@ -1,0 +1,48 @@
+body{
+  display: flex;
+  justify-content: center;
+  background: #C68DA7;
+}
+h2{
+  width: 150px;
+  display: flex;
+}
+
+#container{
+  position:relative;
+  top: 100px;
+  width: 500px;
+}
+
+#content-box{
+  background: #B7C6AD;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+ul{
+  position: relavtive;
+  margin-bottom: 13px;
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  justify-content: left;
+}
+
+a{
+  text-decoration: none;
+  background: #B7C6AD;
+  padding: 15px;
+}
+}
+
+a:link {
+  color: #000000;
+}
+
+a:visited {
+  color: #000000;
+}
+
+a:hover{
+  color: #C68DA7;
